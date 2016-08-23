@@ -22,7 +22,7 @@ def cc_luhn(card_no):
     even_sum=map(x,())
 
 
-
+k
 
 if __name__=='__main__':
     card_no=input("Enter the credit card number \n")
