@@ -25,6 +25,7 @@ def odd_double(i):
     return i
 
 def cc_luhn_check(card_no):
+    #split the card
     odd=card_no[0::2]
     even=card_no[1::2]
 
