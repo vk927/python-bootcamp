@@ -51,7 +51,7 @@ for k in dc:
 # another way is to sum up the the arrays  and find the difference between them this also has the O(N)
 # but this method is not good for too large numbers and some errors mioght araise with decimals in arrays(lists)
 
-#
+
 # l_sum=sum(l)
 # q_sum=sum(q)
 # print("Missed number is ",l_sum-q_sum)
