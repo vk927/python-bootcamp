@@ -1,4 +1,2 @@
-a=[1,2,3]
-b=[4,5,6]
-daily=zip(a,b)
-print(list(daily))
+x=zip([1,2,3,4],[5,6,7])
+print(list(x))
