@@ -1,3 +1,6 @@
+#double ednded queue
+#new items are add/remove at either end
+
 class deque(object):
     def __init__(self):
         self.items=[]
