@@ -1,3 +1,8 @@
+# This is a class to create stack program
+# stack uses LIFO concept
+# In Stack we add and remove elements only from one end i.e from top
+# Stacks are used for reverse order
+
 class Stack(object):
     def __init__(self):
         self.items=[]
