@@ -1,6 +1,6 @@
 #how to balance parentheses
 
-s="hi hello (fhs)gggfuh [hfsjfh] hsj) hshfbjh"
+s="hi hello (fhs)gggffuh [hfsjfh] hsj) hshfbjh"
 stack=[]
 open="([{"
 close=")]}"
