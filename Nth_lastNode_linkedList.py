@@ -1,4 +1,5 @@
-#here the concept is simple
+#With this program we can find the nth node from the tail of the linked list
+# here the concept is simple
 #take two pointers
 def nth_to_last(n,head):
     #let's call one pointer as jumpNode and another as regularNode
