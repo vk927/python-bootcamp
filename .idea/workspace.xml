@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="74a84c13-f047-49f8-85df-f945bee7f539" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fibonnacci_sequence.py" afterPath="$PROJECT_DIR$/fibonnacci_sequence.py" />
     </list>
     <ignored path="python-bootcamp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,21 +43,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="coin_change.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="coin_change.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/coin_change.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
+            <state relative-caret-position="396">
               <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fibonnacci_sequence.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fibonnacci_sequence.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fibonnacci_sequence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            <state relative-caret-position="638">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -98,8 +99,8 @@
         <option value="$PROJECT_DIR$/string_reverse.py" />
         <option value="$PROJECT_DIR$/string_permutation.py" />
         <option value="$PROJECT_DIR$/ttt.py" />
-        <option value="$PROJECT_DIR$/fibonnacci_sequence.py" />
         <option value="$PROJECT_DIR$/coin_change.py" />
+        <option value="$PROJECT_DIR$/fibonnacci_sequence.py" />
       </list>
     </option>
   </component>
@@ -490,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1472761967829</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commit from pycharm">
+      <created>1472764544580</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1472764544580</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -721,18 +729,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/string_reverse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ttt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fibonnacci_sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_reverse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -747,16 +763,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/coin_change.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
+        <state relative-caret-position="396">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fibonnacci_sequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
           <folding />
         </state>
       </provider>

@@ -19,7 +19,6 @@ print(fib_itr(10),"- with iteration")
 
 cache={}
 def fib_mem(n):
-
     #base case
     if n==0 or n==1:
         return n
@@ -28,7 +27,6 @@ def fib_mem(n):
         return cache[n]
     #recursive case when we didn't find in memoize
     cache[n]=fib_mem(n-1)+fib_mem(n-2)
-
     return cache[n]
 
 print(fib_mem(10),"- with dynamic programming")
