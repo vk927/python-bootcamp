@@ -1,0 +1,26 @@
+Tree
+a tree ds has a root ,branches and leaves
+
+The diff b/n  nature tree and comp sci tree is
+comp sci tree has root at top and leaves at bottom
+
+children of one node are diff from children of another node
+each leaf node is unique
+
+file system is tree
+file system --> directories,foleders and files
+
+HTML  page is also a tree structure
+
+Node:
+is a funda part of tree, we call its name as key
+add info is called payload,not so use ful in most but critical in some cases
+
+Edge:
+another imp part of tree
+edge connects 2 nodes to show taht there is a relationship b/n them
+every node will have only one incoming edge i.e only one parent
+each node may have several outgoing edges
+
+
+
