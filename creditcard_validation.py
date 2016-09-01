@@ -6,7 +6,7 @@ import sys
 
 
 def cc_format(card_no):
-    # replace any spaces and -
+    # replace any white spaces and -
     card_no=card_no.replace(" ","")
     card_no = card_no.replace("-","")
     return card_no

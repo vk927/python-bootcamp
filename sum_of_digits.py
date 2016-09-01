@@ -3,4 +3,4 @@ def sum_of_digits(n):
         return n
     return n%10+sum_of_digits(n//10)
 
-print(sum_of_digits(4321))
+print(sum_of_digits(12345))
