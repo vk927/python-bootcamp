@@ -23,4 +23,15 @@ every node will have only one incoming edge i.e only one parent
 each node may have several outgoing edges
 
 
+path :
+ordered list of nodes connected with  edges
+
+leafnode:
+node that don't have children
+
+height of tree:
+max level of any node of tree
+
+
+
 
