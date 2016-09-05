@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74a84c13-f047-49f8-85df-f945bee7f539" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trees_implementation_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/binaryHeap.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python-bootcamp.iws" />
@@ -73,11 +73,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="trees_implementation_2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="trees_implementation_2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/trees_implementation_2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
               <caret line="1" column="87" selection-start-line="1" selection-start-column="87" selection-end-line="1" selection-end-column="87" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="binaryHeap.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/binaryHeap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1144">
+              <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -135,6 +145,7 @@
         <option value="$PROJECT_DIR$/ttt.py" />
         <option value="$PROJECT_DIR$/trees_implementation.py" />
         <option value="$PROJECT_DIR$/trees_implementation_2.py" />
+        <option value="$PROJECT_DIR$/binaryHeap.py" />
       </list>
     </option>
   </component>
@@ -556,7 +567,14 @@
       <option name="project" value="LOCAL" />
       <updated>1472864122069</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="commit from pycharm">
+      <created>1472954136017</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1472954136017</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -877,6 +895,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="87" selection-start-line="1" selection-start-column="87" selection-end-line="1" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binaryHeap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
           <folding />
         </state>
       </provider>
