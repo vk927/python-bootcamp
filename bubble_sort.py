@@ -3,6 +3,8 @@
 
 
 def bubble_sort(arr):
+    # range from n-1 to 0
+    # i value will be from n-1 to 0 (reversing the ranges)
     for i in range(len(arr)-1,0,-1):
         for j in range(i):
             if arr[j]>arr[j+1]:
