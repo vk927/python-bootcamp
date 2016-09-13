@@ -4,6 +4,10 @@
 # and then we should place at last of list
 
 #next we should loop n-1 elements and find highest element and place it at n-1 position
+
+""" worse case complexity 0(n^2)
+best case O(n^2) ---------  avg case O(n^2) """
+
 def selection_sort(arr):
     #loop from n-1 to 0
     #using this we will create sublists
