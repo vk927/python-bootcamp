@@ -16,6 +16,13 @@ def insertion_sort(arr):
 l=[6,56,67,54,23,44,13,11,19,91,4,7,3,9,1]
 print(insertion_sort(l))
 
+
+
+
+
+
+
+
 # def insertion_sort(arr):
 #     for i in range(1,len(arr)):
 #         currentvalue=arr[i]
